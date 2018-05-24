@@ -1,0 +1,11 @@
+Qty,partname,description,lib
+0,"74HC4050_Ootsidebox","","domotab"
+0,"C","Unpolarized capacitor","device"
+0,"CONN_6","","domotab"
+0,"Crystal","Two pin crystal","device"
+0,"HOLE_3MM","","domotab"
+0,"LD39015M33R","","domotab"
+0,"LED","LED generic","device"
+0,"MAX3421E","","domotab"
+0,"R","Resistor","device"
+0,"USB-A-FEMELLE","","domotab"
